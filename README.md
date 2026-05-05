@@ -115,7 +115,7 @@ streamlit>=1.28
 
 ## 👩‍💻 Auteure
 
-**[Ton Nom]** — Statisticienne & Data Analyst | Master en Statistiques
+**Valérie Rosemonde LOKONON** — Statisticienne & Data Analyst | Master en Statistiques
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-blue?logo=linkedin)](https://linkedin.com/in/[ton-profil])
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profil-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/[ton-profil])
